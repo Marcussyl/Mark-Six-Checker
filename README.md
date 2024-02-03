@@ -19,7 +19,12 @@ pip install prettytable
 
 ## Usage
 
-1. Run the Python script with the following command: python mark_six_checker.py
+1. Run the Python script with the following command:
+
+    ```bash
+    python mark_six_checker.py
+    ```
+
 2. The application will display the stored guesses and results in a tabular format.
 3. Select a mode:
     Enter "1" to terminate the application.
